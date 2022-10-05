@@ -14,8 +14,8 @@ The basic form of Particle Swarm Optimization with Python
 
 Find the maximum of the following function
 $$
-f(x)=\sum_{i=1}^n(-x_i)·sin(\sqrt{|x_i|})\\\\
--500\le x_i \le500\\\\
+f(x)=\sum_{i=1}^n(-x_i)·sin(\sqrt{|x_i|})\\
+-500\le x_i \le500\\
 n=2
 $$
 The 3D model is displayed as followed
