@@ -37,7 +37,7 @@ $$
 P_i(t+1)=P_i(t)\qquad if\quad f(x_i(t+1))\geq f(P_i(t))\\
 P_i(t+1)=X_i(t+1)\qquad if\quad f(x_i(t+1))\lt f(P_i(t))
 $$
-Let the number of particles be $s$, so that the best position for all particles iss $P_g(t)$, which is called the global best position.
+Let the number of particles be $s$, so that the best position for all particles is $P_g(t)$, which is called the global best position.
 $$
 P_g=min\{f(P_0(t)),f(P_1(t)),...,f(P_s(t))\}
 $$
